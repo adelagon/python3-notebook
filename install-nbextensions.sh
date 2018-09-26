@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Install requirements
-pip install -r requirements.txt
-
 # Install jupyter extensions
 jupyter contrib nbextension install --user
 jupyter nbextensions_configurator enable --user
