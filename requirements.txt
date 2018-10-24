@@ -2,16 +2,19 @@ appnope==0.1.0
 asn1crypto==0.24.0
 astroid==2.0.4
 backcall==0.1.0
+beautifulsoup4==4.6.3
 bleach==2.1.4
 certifi==2018.10.15
 cffi==1.11.5
 chardet==3.0.4
+Click==7.0
 cryptography==2.3.1
 cycler==0.10.0
 decorator==4.3.0
 defusedxml==0.5.0
 entrypoints==0.2.3
 Faker==0.9.2
+Flask==1.0.2
 html5lib==1.0.1
 idna==2.7
 ipykernel==4.9.0
@@ -19,6 +22,7 @@ ipython==6.5.0
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 isort==4.3.4
+ItsDangerous==1.0.0
 jedi==0.12.1
 Jinja2==2.10
 jsonschema==2.6.0
@@ -62,6 +66,7 @@ PyYAML==3.13
 pyzmq==17.1.2
 qtconsole==4.4.1
 requests==2.20.0
+selenium==3.14.1
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
@@ -74,5 +79,6 @@ traitlets==4.3.2
 urllib3==1.24
 wcwidth==0.1.7
 webencodings==0.5.1
+Werkzeug==0.14.1
 widgetsnbextension==3.4.2
 wrapt==1.10.11
