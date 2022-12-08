@@ -4,7 +4,7 @@ astroid==2.0.4
 backcall==0.1.0
 beautifulsoup4==4.6.3
 bleach==2.1.4
-certifi==2018.10.15
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 Click==7.0
